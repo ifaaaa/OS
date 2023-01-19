@@ -13,7 +13,7 @@ int main()
         int fd;
         int32_t value, number;
         printf("*****************************************************\n");
-        printf("*******Le Ngoc Thien ioctl:page, thread_struct*******\n");
+        printf("*******Byeibitkhan Khalifa ioctl:page, thread_struct*******\n");
  
         printf("\n*[Opening Driver]*\n");
         fd = open("/dev/etx_device", O_RDWR);
