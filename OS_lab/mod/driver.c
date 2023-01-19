@@ -227,6 +227,6 @@ module_init(etx_driver_init);
 module_exit(etx_driver_exit);
  
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Le Ngoc Thien");
+MODULE_AUTHOR("Byeibitkhan Khalifa");
 MODULE_DESCRIPTION("Linux device driver to read PAGE and THREAD_STRUCT from kernel (IOCTL)");
 MODULE_VERSION("1.0");
